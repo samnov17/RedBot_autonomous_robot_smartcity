@@ -14,7 +14,7 @@ Autonomous Robot for Smart City
 
 4. 3D Printing and Modeling
    
-   Secure placement of components was crucial, so we 3D printed the majority of the parts using SketchUp for 3D modeling. On the infrastructure side, we 3D printed streetlights and gates, and used cardboard for larger structures. The "3d_printing" folder contains vector files for all the parts used.
+   Secure placement of components was crucial, so we 3D printed the majority of the parts using SketchUp for 3D modeling. On the infrastructure side, we 3D printed streetlights and gates and used cardboard for larger structures. The "3d_printing" folder contains vector files for all the parts used.
 
 5. Code and Implementation
     
