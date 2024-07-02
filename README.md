@@ -22,4 +22,4 @@ Autonomous Robot for Smart City
 
 6. Report and Documentation
        
-   The detailed report, "DEIS_final_report_group4.pdf," provides an overall idea of the project. Additional photos and videos of the project in real-time operation are also included in this repository.
+   The detailed report, "DEIS_final_report_group4.pdf," provides an overall idea of the project. Some additional photos of the project are also included in this repository.
